@@ -21,11 +21,15 @@
           background-color="#545c64"
           text-color="#fff"
           active-text-color="#ffd04b">
+
           <el-sub-menu index="1">
+            
           <template #title>
+            <router-link to="/about">
             <el-icon><location /></el-icon>
             <span>用户管理</span>
-          </template>
+            </router-link>
+          </template> 
           <el-menu-item-group>
             <el-menu-item index="1-1">普通用户</el-menu-item>
             <el-menu-item index="1-2">志愿者</el-menu-item>
