@@ -25,25 +25,13 @@
                  <el-menu
           background-color="#323A52"
           text-color="#fff"
-<<<<<<< HEAD
-          active-text-color="#ffd04b">
-
-=======
           active-text-color="#2C9EF7">
->>>>>>> 67cba76f6a25771086fe63c9865851a2477cbb28
           <el-sub-menu index="1">
-            
           <template #title>
-<<<<<<< HEAD
-            <router-link to="/about">
-            <el-icon><location /></el-icon>
-=======
               <el-icon class="icon">
               <User />
               </el-icon>
->>>>>>> 67cba76f6a25771086fe63c9865851a2477cbb28
             <span>用户管理</span>
-            </router-link>
           </template> 
           <el-menu-item-group>
             <el-menu-item index="1-1">普通用户</el-menu-item>
