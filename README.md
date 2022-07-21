@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# DataBase-Project
+数据库课设-益寻
+=======
 # vue_test1
 
 ## Project setup
@@ -17,3 +21,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> master
